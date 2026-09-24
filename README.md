@@ -111,9 +111,7 @@ Run the tests with `pytest` from inside `backend/`.
 
 ## Live links
 
-- Frontend: _add your Vercel URL here_
-- Backend / API: _add your Render URL here_
-- GitHub repo: _add your repo URL here_
+- Frontend: (https://clinical-reviewer-ten.vercel.app)
 
 ## Known limitations
 
