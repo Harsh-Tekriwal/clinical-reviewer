@@ -115,11 +115,6 @@ Run the tests with `pytest` from inside `backend/`.
 - Backend / API: _add your Render URL here_
 - GitHub repo: _add your repo URL here_
 
-## Screenshots
-
-_Add 2–3 screenshots here once deployed — the submit form, a generated
-report, and the history list._
-
 ## Known limitations
 
 See `docs/TECHNICAL_DECISIONS.md` for the full list — short version: no
