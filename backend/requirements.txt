@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+google-genai
+pymupdf
+python-multipart
+psycopg2-binary
+python-dotenv
+
+# for running the tests in tests/
+pytest
+httpx
