@@ -111,7 +111,11 @@ Run the tests with `pytest` from inside `backend/`.
 
 ## Live links
 
+<<<<<<< HEAD
 - Frontend: https://clinical-reviewer-ten.vercel.app
+=======
+- Frontend: (https://clinical-reviewer-ten.vercel.app)
+>>>>>>> f3d9ba95fc9ab44e433262854d037dfc24ffed71
 
 ## Known limitations
 
