@@ -50,7 +50,7 @@ async def analyze(
 ):
     if not text and not file:
         raise HTTPException(status_code=400, detail="Provide either text or a file.")
-        MAX_TEXT_LENGTH = 200       # characters
+        MAX_TEXT_LENGTH = 100       # characters
     MAX_FILE_SIZE = 10 * 1024   # 50 KB
 
     if text and len(text) > MAX_TEXT_LENGTH:
